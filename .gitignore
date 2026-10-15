@@ -1,0 +1,4 @@
+﻿models/
+*.gguf
+thesis_env/
+__pycache__/
